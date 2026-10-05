@@ -1,2 +1,2 @@
 # Bank-Personal-Loan-Modeling-using-Machine-Learning
-A machine learning project focused on predicting personal loan acceptance for bank customers using comparative classification models, including Support Vector Machines (SVM), Decision Trees, Random Forest, and Logistic Regression.
+This project delivers an end-to-end data analytics and machine learning solution aimed at predicting and optimizing personal loan acceptance for bank customers. By integrating PostgreSQL for exploratory query analysis, Power BI for interactive business intelligence dashboards, and Machine Learning Classification Models (Support Vector Machine, Decision Tree, Random Forest, and Logistic Regression).
